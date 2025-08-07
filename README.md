@@ -1,2 +1,4 @@
 # MovieRecommendationService
 A Comparison of Filtering Approaches in the Recommendation of Movies using MovieLens Data
+
+Movie subscription services are becoming increasingly popular and competitive as several new streaming platforms are being developed. In order to fully capitalize on this market and retain users, it is essential that streaming companies have effective algorithms for recommending movies to new and existing users. Currently, the two most popular recommendation systems are collaborative filtering and content-based filtering. In this project, we compare the effectiveness of both types of models in making movie recommendations. Following this, we found that the collaborative filtering recommendation system produced the best recommendations and had the lowest Root-Mean-Squared-Error (RMSE).
